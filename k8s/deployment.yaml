@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: docker.local:5000/hello-world-java
+        image: docker.local:5000/hello-world-java-5
         ports:
         - containerPort: 8080
